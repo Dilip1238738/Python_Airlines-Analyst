@@ -1,7 +1,7 @@
 # Python_Airlines-Analyst
 Title
 
-	Indian Airlines Flight Price Analysis & Prediction
+	Indian Airlines Flight Price Analysis
 
 Description
 
